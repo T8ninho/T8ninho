@@ -7,7 +7,8 @@
     </a> 
       <br><br>
       <div align="center">
-    <p>Comecei a estudar na área por conta própria, e possuo uma grande paixão por desenvolvimento de sites e aplicativos,  confira também meu <a href="https://flagnar.com.br/" target="_blank"><i>portifólio no meu site</i></a></p>
+    <p>Comecei a estudar na área por conta própria, e possuo uma grande paixão por desenvolvimento de sites e aplicativos,  confira também meu 
+        <a href="https://flagnar.com.br/" target="_blank"><i>portifólio no meu site</i></a></p>
   </div>
     </a>
     <p align="center">Fique a vontade conhecer um pouco mais sobre oque estou estudando e testando, sua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
@@ -39,6 +40,6 @@
         <img align="center" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
         <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
         <img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
-    <br><br>
-  <div align="center">
+  </div>
+   
   
