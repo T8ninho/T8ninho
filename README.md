@@ -29,7 +29,7 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=t8ninho&show_icons=true&count_private=true&theme=dark" width="350"></a>
   </p>
       
-    <>https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg<>
+    <div>https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg</div>
     
    
   </div>
