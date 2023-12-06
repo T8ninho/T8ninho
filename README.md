@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/T8ninho/T8ninho/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/t8ninho/t8ninho/blob/main/snake.svg" alt="Snake animation" />
 
 ###
