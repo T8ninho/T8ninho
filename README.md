@@ -45,8 +45,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/t8ninho/t8ninho/blob/main/snake.svg" alt="Snake animation" />
-
-###
