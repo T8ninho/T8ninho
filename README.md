@@ -1,4 +1,4 @@
-<h2 align="center">Olá meu nome é Antonio Vitor, e sou estudante de Desenvolvimento Full Stack com foco em Web e Mobile.👌</h2>
+<h2 align="center">Olá meu nome é Antonio Vitor, e sou estudante de Desenvolvimento Full Stack com foco em Front-End.👌</h2>
 
 ###
 
