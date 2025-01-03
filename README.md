@@ -20,7 +20,7 @@
 
 Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas e frameworks para criar aplicações modernas, responsivas e otimizadas. Gosto de enfrentar desafios e aprender novas tecnologias.
 
-- 🌱 Atualmente aprendendo **Next.js** e **TypeScript**;
+- 🌱 Atualmente aprendendo e aperfeiçoando **TypeScript** e **NodeJS**;
 - 👨‍💻 Trabalhando em um projeto de **e-commerce** com uma equipe multidisciplinar;
 - 💡 Interessado em **UI/UX design**, animações e otimização de performance no front-end.
 
