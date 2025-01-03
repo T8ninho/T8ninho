@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Antonio Vitor
 
-<h2 align="center">Estudante de Desenvolvimento Full Stack com foco em Front-End 👌</h2>
+<h2 align="center">Desenvolvedor Full Stack com foco em Front-End 👌</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/t8ninho/" target="_blank">
