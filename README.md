@@ -1,3 +1,4 @@
+[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
 # 👋 Olá! Eu sou Antonio Vitor
 
 <h2 align="center">Desenvolvedor Full Stack com foco em Front-End 👌</h2>
@@ -70,8 +71,6 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
 </picture>
-
-[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
 
 ---
 
