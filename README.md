@@ -71,6 +71,8 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
+
 ---
 
 ### 📬 Entre em contato
