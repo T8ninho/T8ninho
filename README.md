@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/t8ninho/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
   </a>
-  <a href="mailto:contato@t8ninho.com" target="_blank">
+  <a href="mailto:t8ninho@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas e frameworks para criar aplicações modernas, responsivas e otimizadas. Gosto de enfrentar desafios e aprender novas tecnologias.
 
-- 🌱 Atualmente aprendendo e aperfeiçoando **TypeScript** e **NodeJS**;
+- 🌱 Atualmente aprendendo e aperfeiçoando meus conhecimentos em **TypeScript** e **NodeJS**;
 - 👨‍💻 Trabalhando em um projeto de **e-commerce** com uma equipe multidisciplinar;
 - 💡 Interessado em **UI/UX design**, animações e otimização de performance no front-end.
 
@@ -78,5 +78,6 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
 
 Sinta-se à vontade para entrar em contato comigo por qualquer uma das redes sociais ou pelo meu e-mail. Sempre disposto a colaborar e trocar ideias!
 
-🌐 [Site Pessoal](https://t8ninho.com)  
+🌐 [Site Pessoal](https://t8ninho.com/)  
+🌐 [Site Startup](https://www.codigocapixaba.com.br/)  
 📧 [t8ninho@gmail.com](mailto:t8ninho@gmail.com)
