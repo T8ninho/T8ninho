@@ -25,7 +25,7 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
 - 👨‍💻 Trabalhando em um projeto de **e-commerce** com uma equipe multidisciplinar;
 - 💡 Interessado em **UI/UX design**, animações e otimização de performance no front-end.
 
----
+#
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -53,23 +53,32 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
 </div>
 
----
+#
 
-<img align="right" height="150" src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" alt="Cat typing gif" />
 
 ### 📊 Minhas estatísticas no GitHub
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=t8ninho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t8ninho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="Linguagens mais usadas" />
+<img align="right" height="150" src="https://usagif.com/wp-content/uploads/cat-typing-12.gif" alt="Cat typing gif" />
 </div>
 
+#
 ### 🐍 Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
+</picture>
+
+#
+
+<picture>
+  <a href="https://github.com/T8ninho/T8ninho">
+    <img alt="T8ninho Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=t8ninho&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" />
+  </a>
 </picture>
 
 ---
