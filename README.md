@@ -47,10 +47,13 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/ExpressJS.svg" height="40" alt="ExpressJs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
-
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Google%20Cloud.svg" height="40" alt="Google Cloud logo" />
   <img width="12" />
   <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MongoDB.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
