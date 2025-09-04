@@ -21,8 +21,7 @@
 
 Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas e frameworks para criar aplicações modernas, responsivas e otimizadas. Gosto de enfrentar desafios e aprender novas tecnologias.
 
-- 🌱 Atualmente aprendendo e aperfeiçoando meus conhecimentos em **TypeScript** e **NodeJS**;
-- 👨‍💻 Trabalhando em um projeto de **e-commerce** com uma equipe multidisciplinar;
+- 🌱 Atualmente aprendendo e aperfeiçoando meus conhecimentos em **MySQL** e **NestJS + Prisma**;
 - 💡 Interessado em **UI/UX design**, animações e otimização de performance no front-end.
 
 #
