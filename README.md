@@ -1,7 +1,7 @@
 [![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
 # 👋 Olá! Eu sou Antonio Vitor
 
-<h2 align="center">Desenvolvedor Full Stack com foco em Front-End 👌</h2>
+<h2 align="center">Desenvolvedor Full Stack com foco em Back-End / Banco de dados 👌</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/t8ninho/" target="_blank">
