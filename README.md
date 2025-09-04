@@ -50,6 +50,28 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
+
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MongoDB.svg" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MySQL.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/NestJS.svg" height="40" alt="NestJS logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Postman.svg" height="40" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Mongoose.svg" height="40" alt="Mongoose logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Typescript.svg" height="40" alt="Typescript logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/ChartJS.svg" height="40" alt="Charts logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Expo.svg" height="40" alt="Expo logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Linux.svg" height="40" alt="Linux logo" />
+  <img width="12" />
+  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Docker.svg" height="40" alt="Docker logo" />
+  
 </div>
 
 #
