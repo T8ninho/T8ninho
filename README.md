@@ -111,6 +111,5 @@ Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas
 
 Sinta-se à vontade para entrar em contato comigo por qualquer uma das redes sociais ou pelo meu e-mail. Sempre disposto a colaborar e trocar ideias!
 
-🌐 [Site Pessoal](https://t8ninho.com/)  
 🌐 [Site Startup](https://www.codigocapixaba.com.br/)  
 📧 [t8ninho@gmail.com](mailto:t8ninho@gmail.com)
