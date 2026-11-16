@@ -1,3 +1,5 @@
+[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
+
 <h1 align="center">Olá, eu sou o Antonio Vitor 👋</h1>
 
 <p align="center">
@@ -71,6 +73,4 @@ Mais projetos em [codigocapixaba.com.br](https://www.codigocapixaba.com.br/).
 
 <p align="center">
   Aberto a trocar ideia sobre back-end, banco de dados e projetos freelance. Me chama no <a href="https://linkedin.com/in/t8ninho/">LinkedIn</a> ou por <a href="mailto:t8ninho@gmail.com">e-mail</a>.
-  <br/><br/>
-  <a href="https://u8views.com/github/T8ninho"><img src="https://u8views.com/api/v1/github/profiles/64814651/views/total-count.svg" alt="Visualizações do perfil" /></a>
 </p>
