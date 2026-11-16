@@ -1,4 +1,6 @@
-[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho)
+<p align="center">
+  <a href="https://u8views.com/github/T8ninho"><img src="https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg" alt="Visualizações do perfil" /></a>
+</p>
 
 <h1 align="center">Olá, eu sou o Antonio Vitor 👋</h1>
 
