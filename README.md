@@ -1,104 +1,74 @@
-[![Antonio Vitor profile views](https://u8views.com/api/v1/github/profiles/64814651/views/day-week-month-total-count.svg)](https://u8views.com/github/T8ninho) 
-# 👋 Olá! Eu sou Antonio Vitor 
+<h1 align="center">Olá, eu sou o Antonio Vitor 👋</h1>
 
-<h2 align="center">Desenvolvedor Full Stack com foco em Back-End / Banco de dados 👌</h2>
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> · back-end e banco de dados<br/>
+  NestJS · TypeScript · MySQL · React
+</p>
 
-<div align="center">
-  <a href="https://www.instagram.com/t8ninho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
-  </a>
-  <a href="https://linkedin.com/in/t8ninho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
-  </a>
-  <a href="mailto:t8ninho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
-  </a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/t8ninho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:t8ninho@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="E-mail" /></a>
+  <a href="https://www.codigocapixaba.com.br/"><img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfólio" /></a>
+  <a href="https://www.instagram.com/t8ninho/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" /></a>
+</p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e design, com experiência em diversas ferramentas e frameworks para criar aplicações modernas, responsivas e otimizadas. Gosto de enfrentar desafios e aprender novas tecnologias.
+Sou desenvolvedor full stack e trabalho com sistemas do mercado de seguros em produção: APIs em **NestJS**, regras de negócio em **MySQL** e telas em **React** com renderização no servidor.
 
-- 🌱 Atualmente aprendendo e aperfeiçoando meus conhecimentos em **MySQL** e **NestJS + Prisma**;
-- 💡 Interessado em **UI/UX design**, animações e otimização de performance no front-end.
+- 🔧 No dia a dia: multicálculo, portal do corretor e integrações com gateways de pagamento e webhooks
+- 🗄️ Gosto da parte de dados: modelagem, procedures, otimização de consulta
+- 🏢 Fundador da [Código Capixaba](https://www.codigocapixaba.com.br/), onde desenvolvo sites e sistemas sob medida
+- 🎓 Formado em desenvolvimento full stack
 
-#
+---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootscrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/ExpressJS.svg" height="40" alt="ExpressJs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Google%20Cloud.svg" height="40" alt="Google Cloud logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MongoDB.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/MySQL.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/NestJS.svg" height="40" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Postman.svg" height="40" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Mongoose.svg" height="40" alt="Mongoose logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Typescript.svg" height="40" alt="Typescript logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/ChartJS.svg" height="40" alt="Charts logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Expo.svg" height="40" alt="Expo logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Linux.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://github.com/gui-bus/TechIcons/raw/main/Light/Docker.svg" height="40" alt="Docker logo" />
-  
-</div>
+**Back-end**<br/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma&perline=10" alt="TypeScript, Node.js, NestJS, Express, Prisma" />
 
-#
-### 🐍 Snake Game
+**Banco de dados**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase&perline=10" alt="MySQL, MongoDB, Redis, Supabase, Firebase" />
+
+**Front-end e mobile**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&perline=10" alt="React, Vite, Tailwind CSS, JavaScript, HTML, CSS" />
+
+**Infra e ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,gcp,cloudflare,git,postman&perline=10" alt="Docker, Linux, Google Cloud, Cloudflare, Git, Postman" />
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Lista dos Sonhos**](https://play.google.com/store/apps/details?id=sonhos.dos.lista) | App publicado na Google Play | React Native · Expo |
+| [**Código Capixaba**](https://www.codigocapixaba.com.br/) | Site da minha empresa, com API própria de e-mail | TypeScript · Node.js |
+| [**Game Placar**](https://frontend-placar.vercel.app) | Placar de partidas com front e API separados | React · TypeScript · Node.js |
+| [**Monitor de Conexão**](https://teste-internet.vercel.app) | Teste e acompanhamento da qualidade da internet | React · TypeScript |
+| [**Loh Santos Ateliê**](https://www.lohsantosatelie.com.br/) | Site institucional para cliente | React · TypeScript |
+
+Mais projetos em [codigocapixaba.com.br](https://www.codigocapixaba.com.br/).
+
+---
+
+### 📊 Atividade
+
+<img alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=t8ninho&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
-</picture>
-
-#
-
-<picture>
-  <a href="https://github.com/T8ninho/T8ninho">
-    <img alt="T8ninho Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=t8ninho&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" />
-  </a>
+  <img alt="Animação da cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/t8ninho/t8ninho/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-### 📬 Entre em contato
-
-Sinta-se à vontade para entrar em contato comigo por qualquer uma das redes sociais ou pelo meu e-mail. Sempre disposto a colaborar e trocar ideias!
-
-🌐 [Site Startup](https://www.codigocapixaba.com.br/)  
-📧 [t8ninho@gmail.com](mailto:t8ninho@gmail.com)
+<p align="center">
+  Aberto a trocar ideia sobre back-end, banco de dados e projetos freelance. Me chama no <a href="https://linkedin.com/in/t8ninho/">LinkedIn</a> ou por <a href="mailto:t8ninho@gmail.com">e-mail</a>.
+  <br/><br/>
+  <a href="https://u8views.com/github/T8ninho"><img src="https://u8views.com/api/v1/github/profiles/64814651/views/total-count.svg" alt="Visualizações do perfil" /></a>
+</p>
