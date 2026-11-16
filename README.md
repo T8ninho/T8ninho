@@ -27,17 +27,19 @@ Sou desenvolvedor full stack e trabalho com sistemas do mercado de seguros em pr
 
 ### 🛠️ Stack
 
-**Back-end**<br/>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma&perline=10" alt="TypeScript, Node.js, NestJS, Express, Prisma" />
-
-**Banco de dados**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase&perline=10" alt="MySQL, MongoDB, Redis, Supabase, Firebase" />
-
-**Front-end e mobile**<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&perline=10" alt="React, Vite, Tailwind CSS, JavaScript, HTML, CSS" />
-
-**Infra e ferramentas**<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,gcp,cloudflare,git,postman&perline=10" alt="Docker, Linux, Google Cloud, Cloudflare, Git, Postman" />
+<div align="center">
+  <b>Back-end</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,prisma&perline=10" alt="TypeScript, Node.js, NestJS, Express, Prisma" />
+  <br/><br/>
+  <b>Banco de dados</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,supabase,firebase&perline=10" alt="MySQL, MongoDB, Redis, Supabase, Firebase" />
+  <br/><br/>
+  <b>Front-end e mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css&perline=10" alt="React, Vite, Tailwind CSS, JavaScript, HTML, CSS" />
+  <br/><br/>
+  <b>Infra e ferramentas</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,gcp,cloudflare,git,postman&perline=10" alt="Docker, Linux, Google Cloud, Cloudflare, Git, Postman" />
+</div>
 
 ---
 
